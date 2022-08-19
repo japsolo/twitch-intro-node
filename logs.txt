@@ -1,0 +1,10 @@
+
+[8/11/2022, 8:51:09 PM] - Se ejecutó la función add
+[8/11/2022, 8:51:09 PM] - Se ejecutó la función substract
+[8/11/2022, 8:51:10 PM] - Se ejecutó la función add
+[8/11/2022, 8:51:10 PM] - Se ejecutó la función substract
+[8/11/2022, 8:51:18 PM] - Se ejecutó la función add
+[8/11/2022, 8:51:18 PM] - Se ejecutó la función substract
+[8/11/2022, 8:51:20 PM] - Se ejecutó la función multiply
+[8/11/2022, 8:51:21 PM] - Se ejecutó la función multiply
+[8/11/2022, 8:51:23 PM] - Se ejecutó la función multiply
